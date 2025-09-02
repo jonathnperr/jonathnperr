@@ -1,6 +1,8 @@
 <h1 align="center">console.log("Bem vindo! 📚🪴🔬🌊");</h1>
 
-<br>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdpMXV6Mm42em95ZGdvcHlhOXo0enozbjd6OTBtYjlkYWh5NGQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="250" alt="cozy gif" />
+</div>
 
 ###
 
